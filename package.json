@@ -1,0 +1,22 @@
+{
+  "name": "zuiverloon-npm",
+  "version": "1.0.0",
+  "description": "sample npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuiverloon/zuiverloon-npm.git"
+  },
+  "keywords": [
+    "zuiverloon"
+  ],
+  "author": "Junyao Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zuiverloon/zuiverloon-npm/issues"
+  },
+  "homepage": "https://github.com/Zuiverloon/zuiverloon-npm#readme"
+}
